@@ -1,0 +1,4 @@
+baseURL = 'https://smalltoebigtoe.github.io/'
+languageCode = 'en-us'
+title = "my blog"
+theme = 'cactus'
